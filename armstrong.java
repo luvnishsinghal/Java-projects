@@ -1,3 +1,4 @@
+// Checks whether a number is armstrong or not
 import java.util.Scanner;
 class Armstrong_number{
     public static void main(String args[]){
@@ -18,4 +19,5 @@ class Armstrong_number{
             System.out.println("It is not a Armstrong Number");
         }
     }
+
 }
